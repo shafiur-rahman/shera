@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="shera">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shera-screenshots.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shera-app-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
